@@ -139,6 +139,28 @@ Karnaugh map is a method of simplifying Boolean algebra expressions. The goal wa
 
 I participated in a coding competition(codestorm) hosted by IEEE club of our college.
 
+
+##13.Terminal and Shell Scripting
+*****
+#
+The **Linux command window** is a powerful programming tool that minimizes repetition and can be used to perform various tasks using **shell scripts**. The terminal window allows users to create, copy, move, edit, delete, and perform other actions on files directly in the terminal. Additionally, it serves as a platform for running and executing different files.
+
+I performed all the mentioned operations, including creating folders and files, copying text from one file to another, and utilizing a shell script to generate **2600** files using a while loop.
+#### Shell script for creating files using while loop:
+
+    #!/bin/sh
+    echo "Enter the number of files to create : "
+    read number
+    a=0
+    while [ $a -lt $number ];
+    do
+        touch B56-$a.txt
+        ((a++))
+    done
+
+    echo "$number files created."
+    ls B56*
+
 ***********
 
 ## Thank you...
