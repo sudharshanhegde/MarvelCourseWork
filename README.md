@@ -8,7 +8,7 @@
 ******
 #
 
-![3D Printing](IMG_20240516_133127.jpg)
+![3D Printing](https://github.com/sudharshanhegde/photos/blob/main/3dprinting.jpg?raw=true)
 
 I explored 3d printing for the first time in MARVEL UVCE. 
 - I understood how the printer works.
@@ -107,7 +107,7 @@ Control the speed of a 5V BO motor by utilizing an Arduino board and the L298N m
 *****
 #
 
-![Soldering](photo_6055503004158770692_y.jpg)
+![Soldering](https://github.com/sudharshanhegde/photos/blob/main/soldering.jpg?raw=true)
 
 I learned soldering techniques and safety protocols, essential for hardware projects involving circuit assembly and repairs.
 
@@ -115,9 +115,8 @@ I learned soldering techniques and safety protocols, essential for hardware proj
 *****
 #
 
-![Astable Multivibrator](IMG_20240514_152115.jpg)
+![Astable Multivibrator](https://github.com/sudharshanhegde/photos/blob/main/astableMultivibrator.jpg?raw=true)
 
-![Astable Multivibrator](task13a.jpg)
 
 A 555 astable multivibrator is a type of oscillator circuit that generates a continuous square wave output.
 This circuit is a basic oscillator that produces a continuous pulse output. The frequency is adjustable using two resistors, R1 and R2. To achieve a 60% duty cycle, the relationship between R1 and R2 is set as R1 equal to 2 times R2.
@@ -126,7 +125,7 @@ This circuit is a basic oscillator that produces a continuous pulse output. The 
 *******
 #
 
-![Kmaps and Logic Circuit](photo_6055503004158770714_y.jpg)
+![Kmaps and Logic Circuit](https://github.com/sudharshanhegde/photos/blob/main/kmap.jpg?raw=true)
 
 Karnaugh map is a method of simplifying Boolean algebra expressions. The goal was to make the alarm (represented by an LED) beep only when the door is locked and the key is not inserted.
 
